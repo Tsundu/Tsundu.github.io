@@ -1,11 +1,11 @@
 # Site settings
 author: Daniel Osment
-title: 
+title: Code Lessons
 header-img: img/home-bg.png
 email: osment.tsundu@gmail.com
 copyright_name: Daniel Osment
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A narration of information learned while working through learn.co 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Tsundu
